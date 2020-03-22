@@ -1,0 +1,37 @@
+/*
+
+1. Propiedades de una caja:
+--> alto-ancho: height-width
+--> border
+--> padding
+--> margin
+
+2. Representación en pantalla:
+--> display: block;
+--> display: inline-block;
+
+*/
+
+.clase1 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: black solid 5px;
+    display: inline-block;
+}
+
+.clase2 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.clase3 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
